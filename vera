@@ -4,3 +4,4 @@ mkdir vera
 cd vera
 wget https://launchpad.net/veracrypt/trunk/1.24-update3/+download/veracrypt-1.24-Update3-setup.tar.bz2
 tar -xf veracrypt-1.24-Update3-setup.tar.bz2
+./veracrypt-1.24-Update3-setup-gui-x64
